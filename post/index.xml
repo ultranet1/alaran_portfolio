@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project &amp; Internships on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/post/</link>
+    <description>Recent content in Project &amp; Internships on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 3(NLP): BUILDING CHAT_BOT FOR CUSTOMERS SERVICE  </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</guid>
+      <description>Customer service no doubt is part of the core foundation holding a business together, and an organization that wish to make progress &amp;amp; beat the competition must satisfy there customers.
+Remember: &amp;ldquo;CUSTOMER IS KING&amp;rdquo;
+  from hein on wine   However, attending to customers can be monotonous, hence the solution is to automate some of the FAQs answers. Using chatterbot, the bot(Ultrabot) will use logical and best match to return likely answer.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 4 (computer vision) :DIAGNOSIS OF BREAST CANCER WITH ARTIFICIAL INTELLIGENCE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</guid>
+      <description>NOTE; The project is aimed at using histological features, CNN and classifiers, currently anatomical features is been used, The page will be updated as soon as the project is completed.
+Breast cancer is the second most common cancer among women in the United States and the leading cancer type in Nigeria ([Source](https://www.cdc.gov/cancer/breast/statistics/index.htm , Source. However, it can be prevented or managed by early diagnosis. Radiography and Palpation (observation) are the common method in 3rd world countries like Nigeria and other African countires.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 5 (data &amp; web scraping): RAPE NEWS WEB-SCRAPER BOT</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</guid>
+      <description>No doubt, the major challenge of data oriented professions in third world countries is lack of a reliable &amp;amp; open-source central database. Nigeria for example is yet to solve this problem fully. However, Data professionals need to collect data on there own, whether by traditional method or data mining. As we all know: DATA IS LIFE
+  WEB SCRAPING PROCESS   So what is with RAPE NEWS? Few weeks ago, a friend messaged me that he need a web-scraper for his project, he actually needs to get data on popular sites in Nigeria on rape cases during the lockdown (march - Septemeber 2020).</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 2 (analytics): SENTIMENT ANALYSIS OF SHOPRITE on Twitter </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</link>
+      <pubDate>Mon, 14 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</guid>
+      <description>Word-cloud of shoprite-related tweets     Sentiment-Analysis   INTRODUCTION As the saying goes &amp;lsquo;Customer is King&amp;rsquo; , hence it&amp;rsquo;s paramount to put the client first, and try as much as possible to seek and understand there opinion about a product or service.
+This project is aimed at analyzing:
+ Tweeps (twitter user&amp;rsquo;s) emotion about shoprite Most occurring words in tweets Top Tweeps on ShopRite trend table.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 1 (time-series):PREDICTING UNEMPLOYMENT RATE IN OSUN STATE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 11 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-5/</guid>
+      <description>Freedom park, Osogbo (2020)   This project is aim at solving problems &amp;amp; getting insights indigenous to my country Nigeria, Osun state to be precise. I initially used a linear regression model, but since I am now with more skills, I have choosen to use FbProphet model(Time_series_analysis)
+Although, there is a challenge of a reliable central data in Nigeria, I was able to scrap data from opendataforafrica.org using pandas library.</description>
+    </item>
+    
+    <item>
+      <title>MY INTERNSHIPS (virtual)</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-3/</guid>
+      <description>1) Data Analytics Intern @ QUANTIUM Date:Nov 2020 – Feb 2021
+ Data Preparation Customer Analytics Experimentation &amp;amp; uplift testing Analytics &amp;amp; Commercial Application  Certification
+2) Data Analytics virtual @KPMG Date:Dec 2020 – Feb 2021
+ Data Quality Assessment Data Insights Data Insights and Presentation  Certification
+3) Data Science and Advanced Analytics @ BCG GAMMA Date: Feb 2021 – March 2021
+ Business Understanding &amp;amp; Problem Framing Exploratory Data Analysis &amp;amp; Data Cleaning Feature Engineering Modeling &amp;amp; Evaluation Insights &amp;amp; Recommendation  Certification</description>
+    </item>
+    
+  </channel>
+</rss>
