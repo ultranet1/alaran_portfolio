@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selenium on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/selenium/</link>
+    <description>Recent content in selenium on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 3 (web scraping): RAPE NEWS WEB-SCRAPER BOT</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</guid>
+      <description>No doubt, the major challenge of data oriented professions in third world countries is lack of a reliable &amp;amp; democratic central database. Nigeria for example is yet to solve this problem fully. However, Data professionals need to collect data on their own, whether by traditional method or data mining. As we all know: DATA IS LIFE
+  WEB SCRAPING PROCESS   So what is with RAPE NEWS?
+Few weeks ago, a friend messaged me that he need a web-scraper for his project, he actually needs to get data on popular sites in Nigeria on rape cases during the lockdown (march - Septemeber 2020).</description>
+    </item>
+    
+  </channel>
+</rss>

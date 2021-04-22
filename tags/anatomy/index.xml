@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/anatomy/</link>
+    <description>Recent content in Anatomy on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 6 (computer vision) :DIAGNOSIS OF BREAST CANCER WITH ARTIFICIAL INTELLIGENCE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</link>
+      <pubDate>Tue, 09 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</guid>
+      <description>NOTE; The project is aimed at using histological features, CNN and classifiers, currently anatomical features is been used, The page will be updated as soon as the project is completed.
+Breast cancer is the second most common cancer among women in the United States and the leading cancer type in Nigeria ([Source](https://www.cdc.gov/cancer/breast/statistics/index.htm , Source. However, it can be prevented or managed by early diagnosis. Radiography and Palpation (observation) are the common method in 3rd world countries like Nigeria and other African countires.</description>
+    </item>
+    
+  </channel>
+</rss>

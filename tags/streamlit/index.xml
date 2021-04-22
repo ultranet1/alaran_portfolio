@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streamlit on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/streamlit/</link>
+    <description>Recent content in streamlit on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Feb 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 8 (NLP): BUILDING CHAT_BOT FOR CUSTOMERS SERVICE  </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-8/</link>
+      <pubDate>Tue, 09 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-8/</guid>
+      <description>Customer service no doubt is part of the core foundation holding a business together, and an organization that wish to make progress &amp;amp; beat the competition must satisfy there customers.
+Remember: &amp;ldquo;CUSTOMER IS KING&amp;rdquo;
+  from hein on wine   However, attending to customers can be monotonous, hence the solution is to automate some of the FAQs answers. Using chatterbot, the bot(Ultrabot) will use logical and best match to return likely answer.</description>
+    </item>
+    
+  </channel>
+</rss>

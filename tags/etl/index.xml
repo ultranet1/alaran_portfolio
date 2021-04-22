@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>etl on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/etl/</link>
+    <description>Recent content in etl on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 5 (Multi-cloud Integration): ETL PIPELINE CLOUD INTEGRATION OF PYSPARK WITH AWS AND GCS </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-7/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-7/</guid>
+      <description>Why Multi-cloud?
+The answer is Stability and Cheaper price. What do I mean by stability? Few years ago AWS which is known as the backbone of the internet was down for some minutes, Imagine the loss and inconvenience. Also, using all services of a particular cloud service provider is costly (although more scalable).
+Which is why &amp;ldquo;You shouldn&amp;rsquo;t put all your eggs in one basket&amp;rdquo;
+  Dont put all your eggs in a single basket   So I demonstrated how to build a simple ETL pipeline by using pyspark (spark SQL) with AWS (S3,RDS) and GCS (cloud storage, SQL) No bad feelings for Azure, but I just have to focus on the biggest two.</description>
+    </item>
+    
+  </channel>
+</rss>

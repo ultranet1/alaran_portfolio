@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emotion on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/emotion/</link>
+    <description>Recent content in emotion on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Dec 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 2 (analytics): SENTIMENT ANALYSIS OF SHOPRITE on Twitter </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</link>
+      <pubDate>Mon, 14 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</guid>
+      <description>Word-cloud of shoprite-related tweets     Sentiment-Analysis   INTRODUCTION As the saying goes &amp;lsquo;Customer is King&amp;rsquo; , hence it&amp;rsquo;s paramount to put the client first, and try as much as possible to seek and understand there opinion about a product or service.
+This project is aimed at analyzing:
+ Tweeps (twitter user&amp;rsquo;s) emotion about shoprite Most occurring words in tweets Top Tweeps on ShopRite trend table.</description>
+    </item>
+    
+  </channel>
+</rss>

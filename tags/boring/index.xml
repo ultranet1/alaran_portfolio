@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boring on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/boring/</link>
+    <description>Recent content in boring on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/boring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 4 (automation) : AUTOMATING OFFICE BORING STUFFS</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</link>
+      <pubDate>Tue, 09 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</guid>
+      <description>NOTE: I wrote this script based on my PC screen resolution(1366 x 768), so dont run it without using a compatible screen resolution or better still, adjust the code to fit your size.
+No doubt, repeating tasks in our office can be monotonous at times, It&amp;rsquo;s normal as we are humans, and not built to be repetitive This is not the case with bots, they can do our repetitive tasks without getting tired (there may be other reasons but tired is not one of them)</description>
+    </item>
+    
+  </channel>
+</rss>
