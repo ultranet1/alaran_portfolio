@@ -1,2 +1,0 @@
-# alaran_portfolio
-WELCOME TO MY DATA SCIENCE PORTFOLIO
